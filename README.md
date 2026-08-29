@@ -16,7 +16,6 @@
 
 🎮 Apaixonada por `Games, Tecnologia e Design` ♡
 
----
 
 
 <h2 align="center">💻 Em aprendizado: </h2>
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/JavaScript-8C3B45?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
----
 
 <h2 align="center">👩🏻‍💻 Contato: </h2>
 
